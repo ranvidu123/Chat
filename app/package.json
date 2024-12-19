@@ -20,7 +20,7 @@
     "next": "13.4.5",
     "openpgp": "^5.9.0",
     "openai-edge": "^1.1.0",
-    "postcss": "8.4.24",
+    "postcss": "8.4.31",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "socket.io": "^4.6.2",
